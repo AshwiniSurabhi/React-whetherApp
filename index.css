@@ -1,0 +1,33 @@
+body{
+	background-color: green;
+}
+
+.page-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50;
+}
+
+.navbar {
+	margin:0px;
+    display: flex;
+    background: rgba(252, 90, 44, 0.89);
+    color: #fff;
+}
+
+.home-container {
+  padding:200px;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+	margin-left: 0pxx;
+}
+
